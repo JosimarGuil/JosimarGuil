@@ -4,29 +4,29 @@
 &nbsp;&nbsp;&nbsp;
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Olá mundo</h1></summary>
+    <summary><h1 style="display: inline-block">Olá mundo!</h1></summary>
 </div>
 
 <!-- Presentation -->
 <p>
-  Aló 👋, Eu sou Josimar! um jovem apixonado por Engenharia de Software.
+  Aló 👋, Eu sou Josimar Tito, mais conhecido por Guilfoyle Dev! um jovem apaixonado por Engenharia de Software.
 
   - 🌱  Estou actualmente estudando o curso de introdução a ciência da computação e estou cursando Blocktchain na plataforma DIO.
 
-  - 🔭 Estou à procura de uma oportunidade de emprego melhor. O meu sonho é um dia trabalhar com IA e aprendizagem automática e Bocktchain.
+  - 🔭 Estou à procura de uma oportunidade de emprego melhor. Meu sonho é um dia trabalhar com IA e aprendizagem automática e Bocktchain.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Saiba mais sobre mim</summary>
 
-  - 💬 Tenho 22 de anos idade, moro atualmente em Angola. Tenho conhecimento médio de Inglês e tenho experiência com SQL, PHP e Laravel, Livewie entre outras tecnologias. Também sou profrssoar de programção e fundador da Comunidade UNITEC Web, o que me ajudou a desenvolver habilidades importantes para minha carreira, comunicação. 
+  - 💬 Tenho 22 de anos idade, moro atualmente em Angola. Tenho conhecimento médio de Inglês e tenho experiência com SQL, PHP e Laravel, Livewie, Alpine Js, Tailwind css entre outras tecnologias. Também sou professor de programção e fundador da Comunidade UNITEC Web, o que me ajudou a desenvolver habilidades importantes para minha carreira. 
 
   - ⚡ Gosto muito de estudar, consigo aprender muito rápido, gosto de trabalhar em equipe e tenho boa capacidade de liderança.\o/
 </details>
 
 <!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
+[![Youtube](https://www.youtube.com/@guilfoyle.dev001)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
