@@ -9,20 +9,20 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
+  Aló 👋, Eu sou Josimar! um jovem apixonado por Engenharia de Software.
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱  Estou actualmente estudando o curso de introdução a ciência da computação e estou cursando Blocktchain na plataforma DIO.
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🔭 Estou à procura de uma oportunidade de emprego melhor. O meu sonho é um dia trabalhar com IA e aprendizagem automática e Bocktchain.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Saiba mais sobre mim</summary>
 
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+  - 💬 Tenho 22 de anos idade, moro atualmente em Angola. Tenho conhecimento médio de Inglês e tenho experiência com SQL, PHP e Laravel, Livewie entre outras tecnologias. Também sou profrssoar de programção e fundador da Comunidade UNITEC Web, o que me ajudou a desenvolver habilidades importantes para minha carreira, comunicação. 
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡ Gosto muito de estudar, consigo aprender muito rápido, gosto de trabalhar em equipe e tenho boa capacidade de liderança.\o/
 </details>
 
 <!-- Links -->
