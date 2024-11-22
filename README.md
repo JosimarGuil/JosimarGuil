@@ -27,12 +27,12 @@
 
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@guilfoyle.dev001)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josimar-tito-759731288/)
+[![Facebook](https://img.shields.io/badge/Facebook-20BEFF?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092710121892)
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+![VariableBee's GitHub stats](https://github-readme-stats.vercel.app/api?username=VariableBee&show_icons=true&theme=radical)
 
 <!-- Portfolio -->
 ## Portfolio:
