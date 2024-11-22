@@ -53,7 +53,7 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="C" height="30" width="40" 
-      src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
+      src="https://www.svgrepo.com/show/373969/php2.svg">
   </div>
   
   <!-- Skills: Tools & Frameworks -->
@@ -62,7 +62,7 @@
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Git" height="30" width="40" src="https://www.svgrepo.com/show/452210/git.svg">
     <img align="center" alt="Laravel" height="30" width="40" src="https://www.svgrepo.com/show/353985/laravel.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://www.svgrepo.com/show/353661/docker.svg">
+    <img align="center" alt="Docker" height="30" width="40" src="https://www.svgrepo.com/show/452192/docker.svg">
     <img align="center" alt="Bash" height="30" width="40" 
       src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg](https://www.svgrepo.com/show/331760/sql-database-generic.svg)">
   </div>
